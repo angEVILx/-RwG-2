@@ -1,0 +1,14 @@
+// overview description file for laundry_rats.bsp
+
+global 
+{
+	ZOOM	2.05
+	ORIGIN	722	546	-149
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/laundry_rats.bmp"
+	HEIGHT	-149
+}

@@ -1,0 +1,16 @@
+// overview description file for fanboy_rats.bsp
+
+global 
+{
+	ZOOM	.83
+	ORIGIN	-120 	-234	-365
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/fanboy_rats.bmp"
+	HEIGHT	-365
+}
+
+

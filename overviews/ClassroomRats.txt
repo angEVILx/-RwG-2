@@ -1,0 +1,16 @@
+// overview description file for ClassroomRats.bsp by OneSneakyMouse
+// put this file and the bmp into the valve\overviews directory
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.68
+	ORIGIN	-240.0	-938.0	-820.0
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/ClassroomRats.bmp"
+	HEIGHT	-1649.01
+}

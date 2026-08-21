@@ -1,0 +1,14 @@
+// overview description file for Star_Trek_Rats_v2.bsp
+// Overview: Zoom 1.55, Map Origin (500.00, -469.06, 0.00), Z Min 801.00, Z Max -801.00, Rotated 1
+global 
+{
+	ZOOM	1.55
+	ORIGIN	500 -469 0
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/Star_Trek_Rats_v2.bmp"
+	HEIGHT	-801
+}

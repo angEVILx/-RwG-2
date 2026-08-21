@@ -1,0 +1,17 @@
+// overview description file for shadowrats_ro.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.90, Map Origin (-256.00, -125.72, 272.00), Z Min 945.00, Z Max -401.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.90
+	ORIGIN	-256.00 -125.72 272.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/shadowrats_ro.bmp"
+	HEIGHT	-401.00
+}

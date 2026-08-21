@@ -1,0 +1,15 @@
+// overview description file for comprats.bsp
+// Overview: Zoom 3.05, Map Origin (-92.38, 304.38, 20.00), Z Min 853.00, Z Max -813.00, Rotated 1
+global 
+{
+	ZOOM	3.05
+	ORIGIN	-92 304 20
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/comprats.bmp"
+	HEIGHT	-813
+}
+

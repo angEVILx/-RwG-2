@@ -1,0 +1,14 @@
+// overview description file for DesktopRoaches2019.bsp
+// Overview: Zoom 1.44, Map Origin (-311.25, -1059.28, 1264.00), Z Min 3201.00, Z Max -673.00, Rotated 1
+global 
+{
+	ZOOM	1.44
+	ORIGIN	-311 -1059 1264
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/DesktopRoaches2019.bmp"
+	HEIGHT	-673
+}

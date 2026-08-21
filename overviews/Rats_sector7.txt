@@ -1,0 +1,17 @@
+// overview description file for Rats_sector7
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.80, Map Origin (-1086.38, 608.00, -840.00), Z Min 497.00, Z Max -2177.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.80
+	ORIGIN	-1086.38 608.00 -840.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/Rats_sector7.bmp"
+	HEIGHT	-2177.00
+}

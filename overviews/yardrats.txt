@@ -1,0 +1,17 @@
+// overview description file for yardrats.bsp
+// put this file and the bmp into the valve\overviews directory
+//  Overview: Zoom 2.16, Map Origin (-24.00, 0.00, 1212.00), Z Min 2649.00, Z Max -225.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.16
+	ORIGIN	-24.00 0.00 1212.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/yardrats.bmp"
+	HEIGHT	-225.00
+}

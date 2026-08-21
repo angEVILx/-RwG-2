@@ -1,0 +1,17 @@
+// overview description file for ClassroomRats2.bsp by OneSneakyMouse
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.65, Map Origin (-256.00, -922.00, -836.00), Z Min 9.00, Z Max -1681.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.65
+	ORIGIN	-256.00 -922.00 -836.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/classroomrats2.bmp"
+	HEIGHT	-1681.00
+}

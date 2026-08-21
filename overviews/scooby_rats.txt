@@ -1,0 +1,14 @@
+// overview description file for scooby_rats.bsp
+// Overview: Zoom 1.33, Map Origin (30.31, -288.00, -413.00), Z Min 1335.00, Z Max -2161.00, Rotated 1
+global 
+{
+	ZOOM	1.33
+	ORIGIN	30 -288 -413
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/scooby_rats.bmp"
+	HEIGHT	-2161
+}

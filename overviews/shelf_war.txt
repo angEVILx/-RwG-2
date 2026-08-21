@@ -1,0 +1,17 @@
+// overview description file for shelf_war.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.45, Map Origin (816.00, 620.00, 932.00), Z Min 1985.00, Z Max -121.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.45
+	ORIGIN	816.00 620.00 932.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/shelf_war.bmp"
+	HEIGHT	-121.00
+}

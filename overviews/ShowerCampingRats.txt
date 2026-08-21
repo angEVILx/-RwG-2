@@ -1,0 +1,16 @@
+// overview description file for ShowerCampingRats.bsp by OneSneakyMouse
+// Overview: Zoom 1.73, Map Origin (1369.50, -352.0, -934.00), Z Min -223.00, Z Max -1645.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.73
+	ORIGIN	1399.50 -352.00 -934.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/ShowerCampingRats.bmp"
+	HEIGHT	-1645.00
+}

@@ -1,0 +1,17 @@
+// overview description file for Xmasrats.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.18 Map Origin (0.50, 0.00, 464.00), Z Min 1537.00, Z Max -609.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.18
+	ORIGIN	0.50 0.00 464.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/Xmasrats.bmp"
+	HEIGHT	-609.00
+}

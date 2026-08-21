@@ -1,0 +1,17 @@
+// overview description file for TOYSOLDIER.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 3.38, Map Origin (-480.00, -160.00, 93.00), Z Min 557.00, Z Max -371.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	3.38
+	ORIGIN	-480.00 -160.00 93.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/TOYSOLDIER.bmp"
+	HEIGHT	-371.00
+}

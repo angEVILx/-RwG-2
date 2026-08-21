@@ -1,0 +1,18 @@
+// overview description file for AtticRats_2004.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 3.42, Map Origin (-1021.00, -224.00, -2548.00), Z in -1823.00, Z Max -3273.00, Rotated 0
+
+// origin x,y,z
+
+global 
+{
+	ZOOM	3.42
+	ORIGIN	-1021.00 -224.00 -2548.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/AtticRats_2004.bmp"
+	HEIGHT	-3273.00
+}

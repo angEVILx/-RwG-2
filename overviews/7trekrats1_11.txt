@@ -1,0 +1,14 @@
+// overview description file for 7trekrats1_11.bsp
+//  Overview: Zoom 1.81, Map Origin (-227.25, -718.2, 31.50), Z Min 1216.00, Z Max -1148.00, Rotated 0
+global 
+{
+	ZOOM	1.81
+	ORIGIN	-227 -718 31
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/7trekrats1_11.bmp"
+	HEIGHT	-1148
+}

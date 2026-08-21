@@ -1,0 +1,17 @@
+// overview description file for eap_catsHouse.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.18, Map Origin (159.50, 161.00, -181.00), Z Min 321.00, Z Max -683.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.18
+	ORIGIN	159.50 161.00 -181.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/eap_catsHouse.bmp"
+	HEIGHT	-683.00
+}

@@ -1,0 +1,17 @@
+// overview description file for bdo_rats.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.54, Map Origin (-450.00, -193.63, 168.00), Z Min 1315.00, Z Max -980.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.54
+	ORIGIN	-450.00 -193.63 168.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/bdo_rats.bmp"
+	HEIGHT	-980.00
+}

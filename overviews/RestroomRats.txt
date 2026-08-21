@@ -1,0 +1,17 @@
+// overview description file for RestroomRats.bsp by OneSneakyMouse
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.96, Map Origin (480.00, -112.00, -842.00), Z Min 89.00, Z Max -1773.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.96
+	ORIGIN	480.00 -112.00 -842.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/RestroomRats.bmp"
+	HEIGHT	-1773.00
+}

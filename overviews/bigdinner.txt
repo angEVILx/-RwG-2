@@ -1,0 +1,14 @@
+// overview description file for bigdinner.bsp
+//  Overview: Zoom 2.40, Map Origin (-29.69, -146.81, -320.00), Z Min 193.00, Z Max -833.00, Rotated 1
+global 
+{
+	ZOOM	2.40
+	ORIGIN	-29.69 -146.81 -320.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/bigdinner.bmp"
+	HEIGHT	-833.00
+}

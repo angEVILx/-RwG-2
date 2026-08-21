@@ -1,0 +1,17 @@
+// overview description file for Ratslockerroom.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.73, Map Origin (1399.50, -352.00, -918.00), Z Min -191.00, Z Max -1645.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.73
+	ORIGIN	1399.50 -352.00 -918.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/Ratslockerroom.bmp"
+	HEIGHT	-1645.00
+}

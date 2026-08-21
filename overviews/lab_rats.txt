@@ -1,0 +1,19 @@
+// Overview description file for Lab Rats by Darth Sailor
+//
+// This file and the Lab_Rats.bmp file go in your "valve\overviews" folder
+// Screen shot taken with Zoom 1.32, Map Origin (1408.00, 256.00, -400.00), Z Min 545.00, Z Max -1345.00, Rotated 1
+// origin x,y,z
+
+global
+{
+      ZOOM 	1.32
+      ORIGIN	1408.00 256.00 -400.00
+      ROTATED	1
+}
+
+layer 
+{
+      IMAGE	"overviews/lab_rats.bmp"
+      HEIGHT	-1345.00
+}
+ 

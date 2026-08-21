@@ -1,0 +1,17 @@
+// overview description file for LadiesRoomRats by OneSneakYmousE
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.62, Map Origin (128.00, 532.00, -1056.00), Z Min -319.00, Z Max -1793.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.62
+	ORIGIN	128.00 532.00 -1056.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/LadiesRoomRats.bmp"
+	HEIGHT	-1793.00
+}

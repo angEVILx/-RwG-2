@@ -1,0 +1,14 @@
+// overview description file for bedbugs.bsp
+//  Overview: Zoom 3.46, Map Origin (742.00, -1236.00, 690.00), Z Min 1383.00, Z Max -3.00, Rotated 1
+global 
+{
+	ZOOM	3.46
+	ORIGIN	742.00 -1236.00 690.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/bedbugs.bmp"
+	HEIGHT	-3.00
+}

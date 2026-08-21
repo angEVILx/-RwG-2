@@ -1,0 +1,14 @@
+// overview description file for beefburgers.bsp
+//  Overview: Zoom 2.99, Map Origin (505.00, -140.00, -160.50), Z Min 693.00, Z Max -1014.00, Rotated 0
+global 
+{
+	ZOOM	2.99
+	ORIGIN	505.00 -140.00 -160.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/beefburgers.bmp"
+	HEIGHT	-1014.00
+}

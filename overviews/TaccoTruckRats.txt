@@ -1,0 +1,18 @@
+// overview description file for TaccoTruckRats.bsp (2nd release) by OneSneakYmousE
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.75, Map Origin (452.69, -320.00, -1136.00), Z Min -319.00, Z Max -1953.00, Rotated 1
+
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.75
+	ORIGIN	452.69 -320.00 -1136.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/TaccoTruckRats.bmp"
+	HEIGHT	-1953.00
+}

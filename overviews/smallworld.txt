@@ -1,0 +1,17 @@
+// overview description file for smallworld.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 3.26, Map Origin (606.38, 64.00, -16.00), Z Mn 609.00, Z Max -641.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	3.26
+	ORIGIN	606.38 64.00 -16.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/smallworld.bmp"
+	HEIGHT	-641.00
+}

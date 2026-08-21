@@ -1,0 +1,17 @@
+// overview description file for Barroom_rats.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.75, Map Origin (102.00, 152.00, 641.00), Z Min 1289.00, Z Max -7.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.75
+	ORIGIN	102.00 152.00 641.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/Barroom_rats.bmp"
+	HEIGHT	-7.00
+}

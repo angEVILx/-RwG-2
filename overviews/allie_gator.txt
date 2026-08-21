@@ -1,0 +1,16 @@
+// overview description file for allie_gator.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.82, Map Origin (-596.00, -1668.00, 731.00), Z Min 1521.00, Z Max -59.00, Rotated 0
+
+global 
+{
+	ZOOM	1.82
+	ORIGIN	-596.00 -1668.00 731.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/allie_gator.bmp"
+	HEIGHT	-59.00
+}

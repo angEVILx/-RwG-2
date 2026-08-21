@@ -1,0 +1,17 @@
+// overview description file for unibot_rats.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.45, Map Origin (-136.00, 764.00, 248.00), Z Min 673.00, Z Max -177.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.45
+	ORIGIN	-136.00 764.00 248.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/unibot_rats.bmp"
+	HEIGHT	-177.00
+}

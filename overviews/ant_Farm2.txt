@@ -1,0 +1,14 @@
+// overview description file for ant_Farm2.bsp
+//  Overview: Zoom 3.03, Map Origin (1277.38, 544.00, 1024.00), Z Min 2018.00, Z Max 30.00, Rotated 1
+global 
+{
+	ZOOM	3.03
+	ORIGIN	1277.38 544.00 1024.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/ant_Farm2.bmp"
+	HEIGHT	30.00
+}

@@ -1,0 +1,17 @@
+// overview description file for tardis_rats.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.00, Map Origin (0.00, 233.59, 656.00), Z Min 3356.00, Z Max -2044.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.00
+	ORIGIN	0.00 233.59 656.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/tardis_rats.bmp"
+	HEIGHT	-2044.00
+}

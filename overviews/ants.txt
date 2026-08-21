@@ -1,0 +1,14 @@
+// overview description file for ants.bsp
+//  Overview: Zoom 2.50, Map Origin (246.00, -12.00, 384.00), Z Min 1153.00, Z Max -385.00, Rotated 0
+global 
+{
+	ZOOM	2.50
+	ORIGIN	246.00 -12.00 384.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/ants.bmp"
+	HEIGHT	-385.00
+}

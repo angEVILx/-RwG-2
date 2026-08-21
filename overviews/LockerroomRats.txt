@@ -1,0 +1,15 @@
+// overview description file for lockerroomrats.bsp by OneSneakyMouse
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.75
+	ORIGIN	1276.17	-381.25	-960.0
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/lockerroomrats.bmp"
+	HEIGHT	-1729.0
+}

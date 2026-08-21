@@ -1,0 +1,16 @@
+// overview description file for cheese.bsp
+// Overview:Zoom 2.33, Map Origin (-856.00, 156.00, 384.00), Z Min 1275.00, Z Max -507.00, Rotated 1
+global 
+{
+	ZOOM	2.33
+	ORIGIN	-856 156 384
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cheese.bmp"
+	HEIGHT	-507
+}
+
+

@@ -1,0 +1,17 @@
+// overview description file for b2dorm.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 3.67, Map Origin (-544.94, 352.00, 28.00), Z Min 569.00, Z Max -513.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	3.67
+	ORIGIN	-544.94 352.00 28.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/b2dorm.bmp"
+	HEIGHT	-513.00
+}

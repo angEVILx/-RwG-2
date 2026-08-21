@@ -1,0 +1,14 @@
+// overview description file for apartmentrats.bsp
+//  Overview: Zoom 1.86, Map Origin (-286.50, 289.00, -301.00), Z Min 903.00, Z Max -155.00, Rotated 0
+global 
+{
+	ZOOM	1.86
+	ORIGIN	-286 289 -301
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/apartmentrats.bmp"
+	HEIGHT	-155
+}

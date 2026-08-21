@@ -1,0 +1,17 @@
+// overview description file for mario_rats.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.08, Map Origin (-272.00, -544.00, 1177.00), Z Min 2401.00, Z Max -47.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.08
+	ORIGIN	-272.00 -544.00 1177.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/mario_rats.bmp"
+	HEIGHT	-47.00
+}

@@ -1,0 +1,6 @@
+for map: mats_rats.bsp
+
+file:  
+//sound/mats/matsthecossack.wav
+
+a placeholder wav file was substituted.

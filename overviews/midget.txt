@@ -1,0 +1,17 @@
+// overview description file for midget.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 4.34, Map Origin (-112.00, 0.00, 176.00), Z Min 465.00, Z Max -13.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	4.34
+	ORIGIN	-112 0 176
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/midget.bmp"
+	HEIGHT	-13
+}

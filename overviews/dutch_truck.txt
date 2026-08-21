@@ -1,0 +1,17 @@
+// overview description file for dutch_truck.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.23, Map Origin (256.00, 0.00, -576.00), Z Min 1025.00, Z Max -2177.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.23
+	ORIGIN	256.00 0.00 -576.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dutch_truck.bmp"
+	HEIGHT	-2177.00
+}

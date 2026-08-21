@@ -1,0 +1,17 @@
+// overview description file for Camper_Rats.bsp
+// put this file and the bmp into the valve\overviews directory
+//  Overview: Zoom 2.02, Map Origin (-606.50, -448.00, 254.00), Z Min 1793.00, Z Max -1285.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.02
+	ORIGIN	-606.50 -448.00 254.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/Camper_Rats.bmp"
+	HEIGHT	-1285.00
+}
