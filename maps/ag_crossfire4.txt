@@ -1,0 +1,48 @@
+===========================================================
+ag_crossfire4 by: twitch
+============================================================
+Completion Date:    11 Mar 2017 (Updated 1 Dec for brighter lighting)    
+Map Name:      		ag_crossfire4.bsp
+Author:             twitch
+Author email:  		levelediting@gmail.com
+============================================================
+LEVEL DESCRIPTION:
+
+This is a remake of my map ag_crossfire which was obviously a remake of valves map crossfire.
+Crossfire remakes have been done more times than I can count but for good reason. Crossfire is 
+an awesome map. My version, ag_crossfire became very popular with the competitive players of HL. 
+This version was made to address the boring textures and minor errors from the previous version.
+Some minor adjustments to the layout were made and the back area by the bunker is not as big as the original. 
+
+Single Player:    	No
+Co-Op:              No
+Deathmatch:     	Yes
+Suggested Players:  6-14
+New Textures:   	Yes
+New Sounds:      	Yes
+New Sprites:        No
+New Models:		    No
+
+============================================================
+CONSTRUCTION: 1 week build time
+
+editor used:             J.A.C.K (JackHammer)
+utilities used:          VHLT, Irfanview, Photoshop, Wally
+known bugs:            	 None
+Secrets:                 Yes
+============================================================
+Install in steam/steamapps/common/half-life/valve_downloads
+==========================
+Credits:
+-Moonshine! Ideas, beta testing, and motivating me to make changes.
+-Valve for the original crossfire map
+-vluzacn for VHLT
+--------------------------------
+
+Textures by:
+Some by Twitch but most of the textures in this map are from the nightwatch set
+-Andrew Weldon for the Nightwatch textures. Best texture set for golsrc in my opinion!
+-Moonshine surréalisme  - style picture ag_crossfire
+
+I used some pictures, a sprite, and possibly one or two textures I found on the internet a while back. I have no way
+to reference the original authors because the site where I downloaded them at is no longer available.
