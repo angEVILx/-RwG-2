@@ -1,0 +1,17 @@
+// overview description file for Simpsons_rats.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.13, Map Origin (928.00, -992.00, -8.00), Z Min 1281.00, Z Max -1297.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.13
+	ORIGIN	928.00 -992.00 -8.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/Simpsons_rats.bmp"
+	HEIGHT	-1297.00
+}

@@ -1,0 +1,17 @@
+// overview description file for frozenrats.bsp by OneSneakYmousE
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.96, Map Origin (300.50, -114.16, -176.00), Z Min 405.00, Z Max -757.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.96
+	ORIGIN	300.50 -114.16 -176.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/frozenrats.bmp"
+	HEIGHT	-757.00
+}

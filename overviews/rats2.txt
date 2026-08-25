@@ -1,0 +1,17 @@
+// overview description file for rats2.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 3.60, Map Origin (-254.69, -256.00, 589.50), Z Min 1217.00, Z Max -38.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	3.60
+	ORIGIN	-254.69 -256.00 589.50
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/rats2.bmp"
+	HEIGHT	-38.00
+}

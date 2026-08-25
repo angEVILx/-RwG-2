@@ -1,0 +1,17 @@
+// overview description file for veryratshalloween_beta.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.26, Map Origin (384.00, -695.91, -1216.00), Z Min 129.00, Z Max -2561.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.26
+	ORIGIN	384.00 -695.91 -1216.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/veryratshalloween_beta.bmp"
+	HEIGHT	-2561.00
+}

@@ -1,0 +1,18 @@
+// overview description file for PC
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 7.39, Map Origin (52.00, -416.00, -8.00), Z Min 537.00, Z Max -553.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	7.39
+	ORIGIN	52 -416 -8
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/PC.bmp"
+	HEIGHT	-553
+}
+

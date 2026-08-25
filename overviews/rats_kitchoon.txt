@@ -1,0 +1,17 @@
+// overview description file for rats_kitchoon.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 3.36, Map Origin (-1913.88, 300.28, 192.12), Z Min 961.00, Z Max -576.76, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	3.36
+	ORIGIN	-1913.88 300.28 192.12
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/rats_kitchoon.bmp"
+	HEIGHT	-576.76
+}

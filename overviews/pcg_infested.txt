@@ -1,0 +1,17 @@
+// overview description file for pcg_infested
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.15, Map Origin (1049.50, -272.00, -88.00), Z Min 385.00, Z Max -561.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.15
+	ORIGIN	1049.50 -272.00 -88.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/pcg_infested.bmp"
+	HEIGHT	-561.00
+}

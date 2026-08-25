@@ -1,0 +1,17 @@
+// overview description file for smallfry.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.61, Map Origin (-140.00, -1000.00, 328.00), Z Min 1201.00, Z Max -545.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.61
+	ORIGIN	-140.00 -1000.00 328.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/smallfry.bmp"
+	HEIGHT	-545.00
+}

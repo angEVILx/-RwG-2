@@ -1,0 +1,14 @@
+// overview description file for 1housev3.bsp
+//  Overview: Zoom 3.90, Map Origin (890.00, -809.00, 648.00), Z Min -207.00, Z Max -1089.00, Rotated 1
+global 
+{
+	ZOOM	3.90
+	ORIGIN	890.00 -809.00 648.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/1housev3.bmp"
+	HEIGHT	-1089.00
+}

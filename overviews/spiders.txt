@@ -1,0 +1,17 @@
+// overview description file for spiders.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 4.06, Map Origin (496.00, -256.00, -384.00), Z Min -31.00, Z Max -737.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	4.06
+	ORIGIN	496.00 -256.00 -384.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/spiders.bmp"
+	HEIGHT	-737.00
+}

@@ -1,0 +1,17 @@
+// overview description file for inandout_rats.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.47, Map Origin (1412.00, -888.00, 959.00), Z Min 1441.00, Z Max 477.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.47
+	ORIGIN	1412.00 -888.00 959.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/inandout_rats.bmp"
+	HEIGHT	477.00
+}

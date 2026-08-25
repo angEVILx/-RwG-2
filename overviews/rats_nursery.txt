@@ -1,0 +1,17 @@
+// overview description file for rats_nursery.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.02, Map Origin (-1796.00, -1208.00, -1224.00), Z Min 1.00, Z Max -2449.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.02
+	ORIGIN	-1796.00 -1208.00 -1224.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/rats_nursery.bmp"
+	HEIGHT	-2449.00
+}

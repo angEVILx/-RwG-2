@@ -1,0 +1,17 @@
+// overview description file for yardrats_halloween.bsp
+// put this file and the bmp into the valve\overviews directory
+//  Overview: Zoom 2.13, Map Origin (-0.56, -27.75, 1212.00), Z Min 2649.00, Z Max -225.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.13
+	ORIGIN	-0.56 -27.75 1212.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/yardrats_halloween.bmp"
+	HEIGHT	-225.00
+}

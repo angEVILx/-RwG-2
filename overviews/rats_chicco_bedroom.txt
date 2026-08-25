@@ -1,0 +1,14 @@
+// overview description file for rats_chicco_bedroom.bsp
+//  Overview: Zoom 2.24, Map Origin (-178.00, 152.00, 26.93), Z Min 774.87, Z Max -721.00, Rotated 1
+global 
+{
+	ZOOM	2.24
+	ORIGIN	-178 152 26
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/rats_chicco_bedroom.bmp"
+	HEIGHT	-2305
+}

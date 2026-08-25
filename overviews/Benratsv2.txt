@@ -1,0 +1,14 @@
+// overview description file for benratsv2.bsp
+//  Overview: Zoom 2.41, Map Origin (1495.81, -1635.44, -1075.00), Z Min -21.00, Z Max -2129.00, Rotated 0
+global 
+{
+	ZOOM	2.41
+	ORIGIN	1495.81 -1635.44 -1075.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/benratsv2.bmp"
+	HEIGHT	-2129.00
+}

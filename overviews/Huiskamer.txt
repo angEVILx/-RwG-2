@@ -1,0 +1,17 @@
+// overview description file for huiskamer.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 6.30, Map Origin (63.0, -248.00, 191.50), Z Min 513.00, Z Max -130.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	6.30
+	ORIGIN	63 -248 191.5
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/huiskamer.bmp"
+	HEIGHT	-130
+}

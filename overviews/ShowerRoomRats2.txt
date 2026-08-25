@@ -1,0 +1,16 @@
+// overview description file for ShowerRoomRats2.bsp by OneSneakyMouse
+// Overview: Zoom 1.72, Map Origin (1399.50, -352.00, -934.00), Z Min -223.00, Z Max -1645.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.72
+	ORIGIN	1399.50 -352.00 -934.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/ShowerRoomRats2.bmp"
+	HEIGHT	-1645.00
+}

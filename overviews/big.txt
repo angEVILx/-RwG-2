@@ -1,0 +1,14 @@
+// overview description file for big.bsp
+//  Overview: Zoom 6.01, Map Origin (512.00, -656.00, -179.24), Z Min 396.52, Z Max -755.00, Rotated 0
+global 
+{
+	ZOOM	6.01
+	ORIGIN	512.00 -656.00 -179.24
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/big.bmp"
+	HEIGHT	-755.00
+}

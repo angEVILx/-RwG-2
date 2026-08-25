@@ -1,0 +1,17 @@
+// overview description file for DormRoomRats.bsp by OneSneakYmousE
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.97, Map Origin (492.00, -509.84, -956.00), Z Min 9.00, Z Max -1921.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.97
+	ORIGIN	492.00 -509.84 -956.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/DormRoomRats.bmp"
+	HEIGHT	-1921.00
+}

@@ -1,0 +1,17 @@
+// overview description file for cpufrenzy
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.74, Map Origin (1012.00, 711.00, 334.50), Z Min 765.00, Z Max -96.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.74
+	ORIGIN	1012.00 711.00 334.50
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cpufrenzy.bmp"
+	HEIGHT	-96.00
+}

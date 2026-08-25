@@ -1,0 +1,14 @@
+// overview description file for bugs2.bsp
+//  Overview: Zoom 1.29, Map Origin (-596.50, 77.75, 304.00), Z Min 1633.00, Z Max -1025.00, Rotated 1
+global 
+{
+	ZOOM	1.29
+	ORIGIN	-596 77 304
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/bugs2.bmp"
+	HEIGHT	-1025
+}

@@ -1,0 +1,17 @@
+// overview description file for barnyard_rats.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.26, Map Origin (-164.00, 128.00, 1008.00), Z Min 2433.00, Z Max -417.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.26
+	ORIGIN	-164.00 128.00 1008.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/barnyard_rats.bmp"
+	HEIGHT	-417.00
+}

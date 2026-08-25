@@ -1,0 +1,17 @@
+// overview description file for WizardRats_ro.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.61, Map Origin (401.25, -03.09, -1056.00), Z Min 1409.00, Z Max -3521.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.61
+	ORIGIN	401.25 -03.09 -1056.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/WizardRats_ro.bmp"
+	HEIGHT	-3521.00
+}

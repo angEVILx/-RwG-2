@@ -1,0 +1,15 @@
+//Overview: Zoom 1.85, Map Origin (-88.81, -56.62, -136.00), Z Min 449.00, Z Max -721.00, Rotated 1
+// overview description file for hockey-life.bsp
+
+global 
+{
+	ZOOM	1.85
+	ORIGIN	-88.81 -56.62 -136.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/hockey-life.bmp"
+	HEIGHT	-721
+}

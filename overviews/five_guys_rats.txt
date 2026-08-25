@@ -1,0 +1,14 @@
+// overview description file for five_guys_rats.bsp
+
+global 
+{
+	ZOOM	1.65
+	ORIGIN	424 	584	990
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/five_guys_rats.bmp"
+	HEIGHT	990
+}

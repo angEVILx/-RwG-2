@@ -1,0 +1,17 @@
+// overview description file for JailHouseRats.bsp by OneSneakYmousE
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.95, Map Origin (912.00, -968.00, -934.00), Z Min -267.00, Z Max -1601.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.95
+	ORIGIN	912.00 -968.00 -934.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/JailHouseRats.bmp"
+	HEIGHT	-1601
+}

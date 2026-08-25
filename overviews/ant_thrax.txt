@@ -1,0 +1,14 @@
+// overview description file for ant_thrax.bsp
+//  Overview: Zoom 1.59, Map Origin (-664.00, 912.00, -640.00), Z Min 1025.00, Z Max -2305.00, Rotated 1
+global 
+{
+	ZOOM	1.59
+	ORIGIN	-664.00 912.00 -640.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/ant_thrax.bmp"
+	HEIGHT	-2305.00
+}

@@ -1,0 +1,17 @@
+// overview description file for pinballratsv2.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.06, Map Origin (-400.00, -304.00, 784.00), Z Min 1786.00, Z Max -218.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.06
+	ORIGIN	-400.00 -304.00 784.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/pinballratsv2.bmp"
+	HEIGHT	-218.00
+}

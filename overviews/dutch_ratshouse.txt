@@ -1,0 +1,17 @@
+// overview description file for dutch_ratshouse.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.40, Map Origin (-394.38, 16.44, -588.00), Z Min 1929.00, Z Max -3092.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.40
+	ORIGIN	-394.38 16.44 -588.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dutch_ratshouse.bmp"
+	HEIGHT	-3092.00
+}

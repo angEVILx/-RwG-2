@@ -1,0 +1,17 @@
+// overview description file for Rats1738AD.bsp by OneSneakyMouse
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.97, Map Origin (860.00, -1032.50, -379.50), Z Min 449.00, Z Max -1208.00, Rotated 0   
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.97
+	ORIGIN	860.00 -1032.50 -379.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/Rats1738AD.bmp"
+	HEIGHT	-1208.00
+}

@@ -1,0 +1,18 @@
+// overview description file for Cellarrats_2003.bsp by Rev.Greenbud
+// overview by qUicKSiLvEr
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.44, Map Origin (1300.19, 1792.50, -361.00), Z Min 549.00, Z Max -1271.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.44
+	ORIGIN	1300.19 1792.50 -361.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cellarrats_2003.bmp"
+	HEIGHT	-1271.00
+}

@@ -1,0 +1,17 @@
+// overview description file for vanrats
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 3.30, Map Origin (-209.50, 0.00, 58.00), Z Min 353.00, Z Max -237.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	3.30
+	ORIGIN	-209.5 0 58
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/vanrats.bmp"
+	HEIGHT	-237
+}

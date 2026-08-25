@@ -1,0 +1,17 @@
+// overview description file for TurkeyBurgers.bsp
+// put this file and the bmp into the valve\overviews directory
+// origin x,y,z
+// Overview: Zoom 2.91, Map Origin (928.00, 1520.00, 864.00), Z Min 1729.00, Z Max -1.00, Rotated 0
+
+global 
+{
+	ZOOM	2.91
+	ORIGIN	928.00 1520.00 864.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/TurkeyBurgers.bmp"
+	HEIGHT	-1.00
+}

@@ -1,0 +1,16 @@
+// overview description file for gator_garage.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.66, Map Origin (-708.50, -1775.42, 731.00), Z Min 1521.00, Z Max -59.00, Rotated 0
+
+global 
+{
+	ZOOM	1.66
+	ORIGIN	-708.50 -1775.42 731.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/gator_garage.bmp"
+	HEIGHT	-59.00
+}

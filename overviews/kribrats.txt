@@ -1,0 +1,16 @@
+// overview description file for kribrats.bsp by OneSneakYmouse
+// put this file and the bmp into the valve\overviews directory
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.43
+	ORIGIN	-768.0	309.19	-1519.0
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/kribrats.bmp"
+	HEIGHT	-3139.0
+}

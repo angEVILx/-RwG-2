@@ -1,0 +1,17 @@
+// overview description file for TheMrCs.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 3.96, Map Origin (640.00, 1048.00, 0.00), Z Min 385.00, Z Max -385.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	3.96
+	ORIGIN	640.00 1048.00 0.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/TheMrCs.bmp"
+	HEIGHT	-385.00
+}

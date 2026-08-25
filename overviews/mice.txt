@@ -1,0 +1,17 @@
+// overview description file for mice.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Overview: Zoom 3.03, Map Origin (156.75, -311.38, -96.00), Z Min 1089.00, Z Max -1237.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	3.03
+	ORIGIN	156.75 -311.38 -96
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/mice.bmp"
+	HEIGHT	-1237
+}

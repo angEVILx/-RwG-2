@@ -1,0 +1,17 @@
+// overview description file for scurry.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.48, Map Origin (1080.00, 216.00, -970.15), Z Min 2108.71, Z Max -4049.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.48
+	ORIGIN	1080.00 216.00 -970.15
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/scurry.bmp"
+	HEIGHT	-4049.00
+}

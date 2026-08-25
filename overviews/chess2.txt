@@ -1,0 +1,14 @@
+// overview description file for chess2.bsp
+// Overview: Zoom 2.97, Map Origin (552.00, -296.00, 384.00), Z Min 866.00, Z Max -98.00, Rotated 0
+global 
+{
+	ZOOM	2.97
+	ORIGIN	552.00 -296.00 384.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/chess2.bmp"
+	HEIGHT	-98.00
+}

@@ -1,0 +1,17 @@
+// overview description file for DocRock's KitKat_Rats.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.27, Map Origin (240.00, -1232.00, 432.00), Z Min 1377.00, Z Max -513.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.27
+	ORIGIN	240.00 -1232.00 432.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/KitKat_Rats.bmp"
+	HEIGHT	-513.00
+}

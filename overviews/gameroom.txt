@@ -1,0 +1,17 @@
+// overview description file for gameroom.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.05, Map Origin (640.00, 704.00, 280.00), Z Min 705.00, Z Max -145.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.05
+	ORIGIN	640 704 280
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/gameroom.bmp"
+	HEIGHT	-145
+}

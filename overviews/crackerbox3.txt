@@ -1,0 +1,17 @@
+// overview description file for crackerbox3.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.39, Map Origin (960.00, -1088.00, 1472.00), Z Min 3073.00, Z Max -129.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.39
+	ORIGIN	960.00 -1088.00 1472.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/crackerbox3.bmp"
+	HEIGHT	-129.00
+}

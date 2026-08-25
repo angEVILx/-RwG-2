@@ -1,0 +1,17 @@
+// overview description file for DocRock's Ammo_Locker.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 1.98, Map Origin (216.00, 96.00, -224.00), Z Min 1057.00, Z Max -1505.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	1.98
+	ORIGIN	216.00 96.00 -224.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/ammo_locker.bmp"
+	HEIGHT	-1505.00
+}

@@ -1,0 +1,17 @@
+// overview description file for funny_teenbed.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 3.45, Map Origin (306.50, 652.00, 313.00), Z Min 884.00, Z Max -258.00, Rotated 0
+// origin x,y,z
+
+global 
+{
+	ZOOM	3.45
+	ORIGIN	306 652 313
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/funny_teenbed.bmp"
+	HEIGHT	-258
+}

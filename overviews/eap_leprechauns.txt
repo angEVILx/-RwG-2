@@ -1,0 +1,17 @@
+// overview description file for eap_leprechauns.bsp
+// put this file and the bmp into the valve\overviews directory
+// Overview: Zoom 2.71, Map Origin (1213.56, -1108.44, 509.00), Z Min 1299.00, Z Max -281.00, Rotated 1
+// origin x,y,z
+
+global 
+{
+	ZOOM	2.71
+	ORIGIN	1213.56 -1108.44 509.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/eap_leprechauns.bmp"
+	HEIGHT	-281.00
+}
