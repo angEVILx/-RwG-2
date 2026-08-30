@@ -1,0 +1,49 @@
+------General Info--------------------------------------------
+
+Date		:  May 25, 2009
+Title           :  dm_crossfirexM
+Filename        :  dm_crossfirexM.bsp
+Filesize	:  4.8 megs
+Author          :  serono
+Author Email    :  de.ssl@hotmail.com	
+
+
+------Map Desciption-------------------------------------------------
+New version of ag_crossfire map.
+------Play Information-----------------------------------------------
+
+Deathmatch      :  yes
+Single Player   :  info_player_start exists
+How Many Players:  2-8
+
+------Construction---------------------------------------------------
+
+Editor(s) used  :  VHE 3.4 Zoner's HL tools 2.4.2
+Time to Complete:  3 Days total
+Compile Machine :  Core2duo 2.2, 1gb RAM
+Compile time    :  3 min (-extra for hlrad) 
+Playtest time   :  3 Days
+
+Custom Tex's	:  Yes 
+
+------Map Instructions-----------------------------------------------
+
+Unzip this file in your half-life/valve/maps directory, or Adrenaline Gamner Directory.  
+Descomprime este zip sobre la carpeta de Half-Life o Adrenaline Gamer.
+------Thanks/Credits-------------------------------------------------
+
+Venus!
+
+Prefabs: 
+
+From csbanana model pack (cs Section)
+Some Textures from ancient_collection.zip
+Scorpio: original by rewolf software for hl: gunman 
+
+
+
+
+
+
+
+
