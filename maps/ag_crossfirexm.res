@@ -21,5 +21,6 @@ sound/ag_s/cat06.wav
 sound/ag_s/car_alarm.wav
 sound/ag_s/ag_cross_kiss_2.wav
 sound/ag_s/immigrantsong.wav
+sound/ag_s/police.wav
 maps/ag_crossfirexm.bsp
 maps/ag_crossfirexm.txt
